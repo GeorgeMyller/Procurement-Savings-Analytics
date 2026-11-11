@@ -11,8 +11,6 @@ This project simulates a **Procurement Savings Tracking System** that replaces m
 * **Data Visualization:** **Google Looker Studio** for dynamic, interactive executive reporting.
 
 ## 📈 Dashboard & Insights
-*(Replace the placeholder image below with a screenshot of your Looker Studio Dashboard)*
-
 ![Procurement Dashboard Screenshot](assets/dashboard_preview.png)
 
 **[🔗 Click Here to Interact with the Live Looker Studio Dashboard](https://lookerstudio.google.com/s/rgwvbxcOMSM)** 
